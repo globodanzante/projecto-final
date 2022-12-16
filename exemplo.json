@@ -1,0 +1,34 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "nome": "Gustavo Delgado",
+      "telefone": "992545822",
+      "email": "gustavinho@gmail.com",
+      "professor": "Alejandra",
+      "periodo": "Manha",
+      "dia": "Segunda-Feira",
+      "nivel": "Iniciante"
+    },
+    {
+      "id": 2,
+      "nome": "Henry Criales",
+      "telefone": "985221426",
+      "email": "henrizinho@gmail.com",
+      "professor": "Alejandra",
+      "periodo": "Manha",
+      "dia": "Segunda-Feira",
+      "nivel": "Iniciante"
+    },
+    {
+      "id": 3,
+      "nome": "Santiago Hidalgo",
+      "telefone": "978541252",
+      "email": "Santiaguinho@gmail.com",
+      "professor": "Alejandra",
+      "periodo": "Manha",
+      "dia": "Segunda-Feira",
+      "nivel": "Iniciante"
+    }
+  ]
+}

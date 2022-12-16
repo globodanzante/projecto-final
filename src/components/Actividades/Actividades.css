@@ -1,0 +1,39 @@
+.cardActiv{
+  display: inline-flex;
+  flex-wrap: wrap;
+  background-color: #0069C0;
+  width:320px ;
+  height: 300px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  margin: 40px;
+  color: white;
+  text-align: center;
+  line-height: 20px;
+  padding: 20px;
+  box-shadow: 5px 1px 8px 1px rgb(121, 129, 143);
+}
+.titulo-act{
+  font-size: 35px;
+  margin: 50px;
+  color: #188921;
+}
+
+.imgCard{
+  width: 320px;
+  height: 150px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px; 
+  ;
+ 
+}
+.tituloCarsActv{
+  margin: 0%;
+  color:rgb(9, 219, 41);
+  font-size: 25px;
+ 
+}
+.pCardActv{
+  color: rgb(9, 219, 41);
+  font-size: 20px
+}

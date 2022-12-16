@@ -1,0 +1,33 @@
+.cursoscar{
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin: 50px;
+}
+.cardCurso{
+  width: 250px;
+  border: 1px solid rgb(229, 248, 221);
+  padding: 30px;
+  box-shadow: 2px 1px 10px 1px #0069C0;
+  
+}
+.imgCardcur{
+  width: 250px;
+}
+.tituloCur{
+  font-size: 35px;
+  margin-left: 100px;
+ color: #188921;
+}
+.infoCurso{
+  font-size: 35px;
+  margin: 30px 100px;
+  text-align: justify;
+}
+.pcardcurso{
+  font-size: 18px;
+}
+.tituloCarsCurso{
+  margin: 0%;
+  color:#188921;
+  font-size: 25px;
+}

@@ -1,0 +1,83 @@
+.titulo-home{
+font-family: 'Inconsolata';
+font-weight: 900;
+color: #188921;
+margin: 40px;
+margin-top: 80px;
+font-size: 35px;
+}
+.mujer{
+  width: 400px;
+  position: absolute;
+  right: 5%;
+  top: 15%;
+  border-radius: 50px;
+}
+.manzana{
+  width: 50px;
+  position: absolute;
+  right:11% ;
+  top: 44%;
+  transform: skew(-0.06turn, 7deg);
+
+}
+.info-geral{
+  width: 45%;
+  margin-left: 50px  ;
+  margin-bottom: 90px;
+  text-align: justify;
+  font-size: 20px;
+}
+.home-act{
+ 
+  background-color: #0069C0;
+  box-shadow: 5px 1px 8px 1px rgb(121, 143, 126);
+  
+  
+}
+.destaque-home{
+  display: inline-flex;
+  margin: 30px;
+}
+.titulo-home1{
+  font-family: 'Inconsolata';
+  font-weight: 900;
+  color: #14ef26;
+  padding: 40px;
+  font-size: 30px;
+  
+
+}
+
+.activ-home{
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 10px 1px rgb(37, 173, 96);
+}
+.destaque{
+  width: 500px;
+  margin-left: 90px;
+  text-align: center;
+}
+.activ-home:hover{
+  transform: translateY(-2px);
+  transition: 0.1s;
+}
+.descri-act-home {
+  color: white; 
+  text-align: center;
+  font-size: 20px;
+}
+
+.descuento-home{
+  width: 280px;
+  height: 100px;
+  position: absolute;
+  bottom: -398px;
+  left: 555px;
+}
+.convite-oferta{
+ margin: 30px 50px 100px;
+  text-align: center;
+  font-size: 50px;
+}
